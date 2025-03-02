@@ -1,0 +1,11 @@
+INSERT INTO food (name, color, rating) VALUES ('Pizza', 'Brown', 7);
+INSERT INTO food (name, color, rating) VALUES ('Salad', 'Green', 5);
+INSERT INTO food (name, color, rating) VALUES ('Taco', 'Yellow', 6);
+INSERT INTO food (name, color, rating) VALUES ('Sushi', 'Salmon', 9);
+INSERT INTO food (name, color, rating) VALUES ('Burger', 'Brown', 7);
+INSERT INTO food (name, color, rating) VALUES ('Fries', 'Yellow', 8);
+INSERT INTO food (name, color, rating) VALUES ('Pasta', 'Yellow', 8);
+INSERT INTO food (name, color, rating) VALUES ('Rice', 'White', 7);
+INSERT INTO food (name, color, rating) VALUES ('Soup', 'Brown', 6);
+INSERT INTO food (name, color, rating) VALUES ('Sandwich', 'Brown', 7);
+INSERT INTO food (name, color, rating) VALUES ('Steak', 'Brown', 9);
